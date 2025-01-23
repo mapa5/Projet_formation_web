@@ -1,0 +1,871 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"mar",
+				"margin-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"lin",
+				"links\tlink - stylesheet"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"ifr",
+				"iframe"
+			],
+			[
+				"vid",
+				"video\t<video>"
+			],
+			[
+				"sec",
+				"section\t<section>"
+			],
+			[
+				"num",
+				"numtel"
+			],
+			[
+				"dat",
+				"dateNai"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"labe",
+				"label\t<label> with <input>"
+			],
+			[
+				"in",
+				"inputc\tinput - checkbox"
+			],
+			[
+				"inp",
+				"inputr\tinput - radio"
+			],
+			[
+				"for",
+				"form\t<form>"
+			],
+			[
+				"h",
+				"h2"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"art",
+				"article\t<article>"
+			],
+			[
+				"tab",
+				"table\t<table>"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"mai",
+				"main\t<main>"
+			],
+			[
+				"sp",
+				"span\t<span>"
+			],
+			[
+				"he",
+				"header\t<header>"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"valeurpa",
+				"valeurpar400"
+			],
+			[
+				"n",
+				"nombre2"
+			],
+			[
+				"al",
+				"alphabetique"
+			],
+			[
+				"entr",
+				"entryuser2"
+			],
+			[
+				"entry",
+				"entrypass2"
+			],
+			[
+				"per",
+				"Permission"
+			],
+			[
+				"logi",
+				"login_"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"logu",
+				"logout_"
+			],
+			[
+				"entryuser",
+				"entryuser2"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"usr",
+				"userdata1"
+			],
+			[
+				"us",
+				"userdata1"
+			],
+			[
+				"user",
+				"userdata2"
+			],
+			[
+				"ent",
+				"entryuser2."
+			],
+			[
+				"da",
+				"date_intervention"
+			],
+			[
+				"log",
+				"login_"
+			],
+			[
+				"add",
+				"add_user_"
+			],
+			[
+				"entrypas",
+				"entrypass2"
+			],
+			[
+				"sa",
+				"save_info"
+			],
+			[
+				"led",
+				"ledPin1"
+			],
+			[
+				"digi",
+				"digitalWrite"
+			],
+			[
+				"di",
+				"digitalRead\tArduino digitalRead"
+			],
+			[
+				"el",
+				"ifelse\tArduino if-else"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"se",
+				"$_SESSION\tSESSION['…']"
+			],
+			[
+				"ses",
+				"session_start()"
+			],
+			[
+				"Pos",
+				"$_POST\tPOST['…']"
+			],
+			[
+				"delay",
+				"delay()"
+			],
+			[
+				"Se",
+				"Serial2"
+			],
+			[
+				"Serial",
+				"Serial."
+			],
+			[
+				"ser",
+				"Serial."
+			],
+			[
+				"le",
+				"pinled2"
+			],
+			[
+				"pi",
+				"pinled1"
+			],
+			[
+				"d",
+				"digitalWrite()"
+			],
+			[
+				"sw",
+				"switchpin"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"inclu",
+				"include"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"bout",
+				"boutc2"
+			],
+			[
+				"ma",
+				"_max_connection"
+			],
+			[
+				"hi",
+				"hide_SSID"
+			],
+			[
+				"ss",
+				"ssid"
+			],
+			[
+				"not",
+				"note_histoire_geo"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"l",
+				"li"
+			],
+			[
+				"u",
+				"ul"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"top",
+				"top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"image",
+				"border-image-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"blu",
+				"skyblue"
+			],
+			[
+				"ligh",
+				"lightgray"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"test",
+				"text-transform"
+			],
+			[
+				"m",
+				"medium"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"text-ali",
+				"text-align-last"
+			],
+			[
+				"no",
+				"snow"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"donn",
+				"donnees1"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"tb",
+				"tbody"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"Hau",
+				"Hauteur"
+			],
+			[
+				"ch",
+				"choix"
+			],
+			[
+				"p",
+				"perimetre"
+			],
+			[
+				"hau",
+				"hauteur"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "htm"
+					},
+					"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert_completion",
+					{
+						"completion": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<title>$1</title>\n\t<link rel=\"stylesheet\" href=\"$2\">\n</head>\n<body>\n\t$0\n</body>\n</html>",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "html5"
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAADAAAAaHRtAAAAAAAAAAC/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "index"
+					},
+					"BQAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAB3AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/basti/Desktop/Formation developpeur web/Dossier Projet",
+		"/C/Users/basti/Desktop/Formation developpeur web/Dossier Projet/Main"
+	],
+	"file_history":
+	[
+		"/C/Users/basti/Desktop/Formation developpeur web/tp4 HTML/index.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp4 HTML/main.css",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp3HTML/index.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp3HTML/style.css",
+		"/C/Users/basti/Desktop/scolaire/HTML/CSS/site/style.css",
+		"/C/Users/basti/Documents/GitHub/SmartBot/data/smartBot.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp2 HTMl/index.html",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp1 HTML/index.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp1 HTML/html tp1.sublime-project",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp1 HTML/portfolio.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp1 HTML/about.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/tp1 HTML/article.html",
+		"/C/Users/basti/Desktop/Formation developpeur web/Exo algo fonctions.py",
+		"/C/Users/basti/Desktop/Formation developpeur web/Exo algo tableau.py",
+		"/C/Users/basti/Desktop/Formation developpeur web/Exo algo oucles.py",
+		"/C/Users/basti/Desktop/Formation developpeur web/Exo algo conditions.py",
+		"/C/Users/basti/Desktop/Formation developpeur web/Exo algo exercices.py",
+		"/C/Users/basti/Desktop/scolaire/python/Selenium 2.py",
+		"/C/Users/basti/Desktop/scolaire/python/Selenium.py",
+		"/C/Users/basti/Desktop/Formation developpeur web/import time.py",
+		"/C/Users/basti/Desktop/test py 2.py",
+		"/C/Users/basti/Desktop/opihufjghc.py",
+		"/C/Program Files (x86)/Steam/logs/shader_log.txt",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/Log Highlight/README.md",
+		"/C/Users/basti/AppData/Roaming/discord/logs/renderer_js.log",
+		"/C/Users/basti/Desktop/Projet Bachelor Extension chrome/manifest.json",
+		"/C/Users/basti/Desktop/Projet Bachelor Extension chrome/popup.html",
+		"/C/Users/basti/Desktop/Projet Bachelor Extension chrome/monscript.js",
+		"/C/Users/basti/AppData/Roaming/lwp/lwp.cfg",
+		"/C/Users/basti/Downloads/gpt4free-main/gpt4free-main/gpt4free/README.md",
+		"/C/Users/basti/Downloads/apk setup/lwp-main/lwp-main/README.md",
+		"/C/Users/basti/AppData/lwp/lwp.cfg",
+		"/C/Program Files/Layered WallPaper/consoleLWP.bat",
+		"/C/Program Files/Layered WallPaper/lwp.exe",
+		"/C/Program Files/Layered WallPaper/lwp.cfg",
+		"/C/Program Files/Layered WallPaper/SETUP.md",
+		"/C/Users/basti/Desktop/test py.py",
+		"/C/Users/basti/Desktop/vraibtsblanc.ino",
+		"/C/Users/basti/Desktop/btsblanc.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/Modern_GUI_PyDracula_PySide6_or_PyQt6-master/main.py",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/app.py",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/projet_fontaine.py",
+		"/C/Users/basti/AppData/Local/Google/Chrome/User Data/Default/Extensions/gpbfdiifiacokhoabejacjiiofdomhff/1.1.1.0_0/_metadata/verified_contents.json",
+		"/C/Users/basti/AppData/Local/Google/Chrome/User Data/Default/Extensions/elafblnebldjjhgnednjldbmaomdlojj/0.1.9.7_0/start/chrome/settings.js",
+		"/C/Users/basti/AppData/Local/Google/Chrome/User Data/Default/Extensions/gpbfdiifiacokhoabejacjiiofdomhff/1.1.1.0_0/_locales/zh_CN/messages.json",
+		"/C/Users/basti/Downloads/Log-Temperature-Sensor-and-send-data-to-TTN/Log-Temperature-Sensor-and-send-data-to-TTN.ino",
+		"/C/Users/basti/Desktop/General changes in economic parameters - Google Drive.html",
+		"/C/Users/basti/Downloads/RJ402577_trial/kakuriyo_1341win_trial/img/characters/!$11_Sleeping.png_",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/units/tankmodels/fr_leclerc_s1.blkx",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/units/tankmodels/ussr_t_80bvm.blkx",
+		"/C/Users/basti/Desktop/Desktop_AVR_NANO_atmega328p.hex",
+		"/C/Users/basti/Documents/GitHub/SmartBot/SmartBot.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/LoRaCom/serveur/serveur.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/LoRaCom/client/client.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/exemple dht11/exemple dht11.ino",
+		"/C/Users/basti/Downloads/apk setup/boost_1_64_0/tools/build/test/qt5/qtdeclarative.cpp",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/test pyqt6 interface.py",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/src/LoRa.h",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/src/LoRa.cpp",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/API.md",
+		"/C/Users/basti/Documents/Arduino/libraries/RadioHead-master/RH_RF95.h",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/.travis.yml",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/issue_template.md",
+		"/C/Users/basti/Documents/Arduino/libraries/arduino-LoRa-master/README.md",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/Search in Project/messages.json",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/lang.vromfs.bin_u/lang/units_weaponry.csv",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/Search in Project/Default (Windows).sublime-keymap",
+		"/C/Users/basti/AppData/Roaming/Sublime Text/Packages/Search in Project/SearchInProject.sublime-settings",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/Modern_GUI_PyDracula_PySide6_or_PyQt6-master/widgets/custom_grips/custom_grips.py",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/flightmodels/mig_23bn.blkx",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/aces.vromfs.bin_u/gamedata/flightmodels/a_7e.blkx",
+		"/C/Users/basti/Downloads/War-Thunder-Datamine-master/War-Thunder-Datamine-master/aces.vromfs.bin_u/config/fireparams.blkx",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Exercices SQL, cours complet, tutoriel sur SQL_MySQL - Aymeric AUBERTON_files/all.js",
+		"/C/Users/basti/Desktop/interventions.sql",
+		"/C/Users/basti/Documents/CyberLink/Void/best girl ever/best girl ever/video 1 mp4.MOV",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Dragino LoRa/Dragino-LoRa/exemple dht11.ino",
+		"/C/Users/basti/Desktop/scolaire/python/split.py",
+		"/C/Users/basti/Desktop/scolaire/python/for.py",
+		"/C/Users/basti/Desktop/scolaire/python/func.py",
+		"/C/wamp/www/PHP/TP_PHP_1_4.php",
+		"/C/wamp/www/PHP/TP_PHP_1_3.php",
+		"/C/wamp/www/PHP/TP_PHP_1_2.php",
+		"/C/wamp/www/PHP/TP_PHP_1.php",
+		"/C/Users/basti/Documents/GitHub/SmartBot/data/Style.css",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Rendu Pihouet Lang Simon/Serveur2/Serveur2.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Rendu Pihouet Lang Simon/Client2/Client2.ino",
+		"/C/wamp/www/PHP/php.php",
+		"/C/Users/basti/Desktop/untitled3/main.cpp",
+		"/C/Users/basti/curseforge/minecraft/Instances/Astropolis/config/jei/jei-client.ini",
+		"/C/Users/basti/AppData/Local/Temp/Rar$DIa2680.14539/user.json",
+		"/C/Users/basti/AppData/Local/Temp/Rar$DIa2680.5230/channel.json",
+		"/C/Users/basti/Desktop/scolaire/rochatain.html",
+		"/C/wamp/www/PHP/TP_PHP_1_2 - Copie (2).php",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/valide1.html",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/htmlosef.html",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/htmlosef.html",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/formulaire.html",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/valide1",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/index.html",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/random html/introduction.html",
+		"/C/Users/basti/Downloads/Genshin_Impact.xml",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Client2/Client2.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Client/Client.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Serveur2/Serveur2.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/Serveur/Serveur.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/codetest.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/master1/master1.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/sketch_oct13a/sketch_oct13a.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/fuck_you/fuck_you.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/wifitest/wifitest.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/wifitest.ino",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Wifi.h",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Wifi.cpp",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Serial.cpp",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Serial.h",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Bluetooth.cpp",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/miniprojet esp/codetest/Bluetooth.h",
+		"/C/Users/basti/Desktop/Nouveau document texte (2).py",
+		"/C/Users/basti/AppData/Roaming/BetterDiscord/plugins/DiscordFreeEmojis64px.plugin.js",
+		"/C/Users/basti/AppData/Local/HoloCure/HoloCure/settings.json",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/TP8.2.sql",
+		"/C/Users/basti/AppData/Local/HoloCure/save.dat",
+		"/C/Users/basti/Desktop/scolaire/C++/Liaison série/C_RS232 .cpp",
+		"/C/Users/basti/Desktop/scolaire/2nd Année/Révision 2/bdd-exercices.sql",
+		"/C/Users/basti/curseforge/minecraft/Instances/1.19.2/mods/revision.sql",
+		"/C/Users/basti/Downloads/Anya_Cursor_Easy_Setup/Anya_Cursor/Installer.inf"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"br",
+			"acces",
+			"self",
+			"stree",
+			"HIGH",
+			"LOW",
+			"=a",
+			"ledstate",
+			"init",
+			"mk32"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 59.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Main.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
